@@ -3,7 +3,7 @@ name: Markdown Checks
 on:
   pull_request:
     types: [opened, synchronize, reopened]
-    paths: '**.md'
+    paths: '**/*.md'
 
 jobs:
   mdchecks:
@@ -25,7 +25,7 @@ jobs:
         list-files: shell
         filters: |
           markdown:
-            - added|modified: '*.md'
+            - added|modified: '**/*.md'
 
       # This step filters the list of files further, removing from consideration
       # any file that includes the XML comment
