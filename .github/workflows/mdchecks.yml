@@ -3,7 +3,7 @@ name: Markdown Checks
 on:
   pull_request:
     types: [opened, synchronize, reopened]
-    paths: '**.md'
+    paths: '**/*.md'
 
 jobs:
   mdchecks:
