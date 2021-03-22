@@ -328,3 +328,4 @@ Aggregate: none
 [66]: https://www.ibiblio.org/apollo/CMC_data_cards_15_Fabrizio_Bernardini.pdf?#page=31 "AGC CM DAP Configuration {}"
 [67]: https://www.ibiblio.org/apollo/CMC_data_cards_15_Fabrizio_Bernardini.pdf?#page=29 "AGC CM Star Names {}"
 [68]: https://en.wikipedia.org/wiki/Zond_7 "Russian Zond-7 Mission {}"
+

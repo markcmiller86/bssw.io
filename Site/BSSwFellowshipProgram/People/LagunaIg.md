@@ -27,3 +27,4 @@ Ignacio is a Computer Scientist at the Center for Applied Scientific Computing (
 <a href="http://fpanalysistools.org/pearc19/" class="link-row">Tutorial on Floating-Point Analysis Tools Presented at PEARC19</a>
 <a href="http://fpanalysistools.org/sc19/" class="link-row">Tutorial on Floating-Point Analysis Tools Presented at SC19</a>
 <a href="http://fpanalysistools.org/LANL/" class="link-row">Tutorial on Floating-Point Analysis Tools Presented at Los Alamos National Laboratory</a>
+

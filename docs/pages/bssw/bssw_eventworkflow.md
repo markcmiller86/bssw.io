@@ -22,3 +22,4 @@ Below are the steps for creating an event article:
 
 After the pull request is created, the editorial team will review and publish the event. 
 {% include links.html %}
+

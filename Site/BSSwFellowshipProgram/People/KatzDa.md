@@ -27,3 +27,4 @@ Daniel is a Research Associate Professor, Computer Science, Electrical and Compu
 <a href="https://bssw.io/blog_posts/bssw-fellowship-activity-promoting-software-citation" class="link-row">BSSw Blog Post: Promoting Software Citation</a>
 <a href="https://ideas-productivity.org/events/hpc-best-practices-webinars/#webinar017" class="link-row">HPC Best Practices Webinar:  Software Citation Today and Tomorrow</a>
 
+

@@ -91,3 +91,4 @@ These are addressed as a text link and follow the formatting below.
 ```
 [WhatIs doc](https://github.com/betterscientificsoftware/images/raw/master/filename.pdf "What is Good Documentation?")
 ```
+

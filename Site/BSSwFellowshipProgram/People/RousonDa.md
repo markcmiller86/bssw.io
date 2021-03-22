@@ -23,3 +23,4 @@ Damian is a research engineer and member of the Advisory Board of [Sustainable H
 ### Selected resources
 
 <a href="https://bssw.io/blog_posts/increasing-productivity-by-broadening-participation-in-scientific-software-communities" class="link-row">Increasing Productivity by Broadening Participation in Scientific Software Communities</a>
+
