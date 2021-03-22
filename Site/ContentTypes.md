@@ -130,3 +130,4 @@ We should understand the implications of each of these before we settle
 on one. At present, we seem to be using mostly the Folder Hierarchy
 approach. Different web technologies for actually generating and hosting
 the site may benefit from one more than another.
+

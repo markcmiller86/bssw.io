@@ -20,3 +20,4 @@ Nasir is developing a hands-on tutorial entitled “Automatic Testing in Scienti
 
 Nasir is a graduate student in the Software Engineering research lab in the Department of Computer Science at the University of Alabama. His research focuses on the development of software engineering techniques and tools to improve the quality and maintainability of research software. 
 
+

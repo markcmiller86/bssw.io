@@ -15,3 +15,4 @@ Please place your new file in one of the following folders on the site, accordin
 - [Articles/ShortArticles](https://github.com/betterscientificsoftware/bssw.io/tree/master/Articles/ShortArticles): For any other original contents; other than blogs and WhatIs documents.
 
 {% include links.html %}
+

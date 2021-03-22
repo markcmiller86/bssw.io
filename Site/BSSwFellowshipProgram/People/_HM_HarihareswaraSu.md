@@ -9,3 +9,4 @@
 **Short Bio:** Founder and Principal, Open source software management and collaboration
 
 **Honorable Mention:** Yes
+
