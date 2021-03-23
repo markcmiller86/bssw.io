@@ -1,27 +1,35 @@
-BSSw Workflows
+# BSSw CI Workflows
 
 This file is intended to provide a roadmap to the various workflows.  Further comments should be found within each file.
 
 Format:
 * Filename (name)
-    - trigger(s)
-    - jobname
-        - description
+  - trigger(s)
+  - jobname
+    - description
 
-# Workflows in use
-* merge-master-to-preview.yml (Sync master to preview)
-    - trigger: push to master branch
-    - job: sync-preview
+## Workflows in use
+
+* `merge-master-to-preview.yml` - Sync master to preview
+  - trigger: push to master branch
+  - job: sync-preview
         - Merges from master into preview branch.
-* merge-pr-to-preview.yml (Sync pull request to preview)
-    - trigger: pull request [opened, synchronized] on master branch
-    - job: sync-pull-request
-        - Merges PR into preview branch
-* no-prs-on-preview.yml (Reject pull requests on preview branch)
-    - trigger: pull request [opened, reopened] on preview branch
-    - job: reject-pr
-        - Attempts to open a PR against the preview branch are immediately closed and an explanatory comment is added to the PR.
-* 
+* `merge-pr-to-preview.yml` - Sync pull request to preview
+  - trigger: pull request [opened, synchronized] on master branch
+  - job: sync-pull-request
+    - Merges PR into preview branch
+* `no-prs-on-preview.yml` - Reject pull requests on preview branch
+  - trigger: pull request [opened, reopened] on preview branch
+  - job: reject-pr
+    - Attempts to open a PR against the preview branch are immediately closed and an explanatory comment is added to the PR.
+* `mdchecks.yml` - Markdown checks
+  - trigger: creation or update of a pull request
+  - job: Markdown Checks
+    - Installs markdown text tools and runs them
+      - markdownlint-cli
+      - markdown-spellcheck
+      - markdown-link-check
+
 # Gaps
 * PR is closed without merge.  We should back out the whole PR from preview?  Or kill and recreate preview?
 * Recreate preview branch.  Trigger manually
