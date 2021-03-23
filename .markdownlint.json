@@ -3,5 +3,6 @@
   "ignore_front_matter": true,
   "MD013": { "line_length": 110, "code_blocks": false, "tables": false },
   "MD041": false,
-  "MD026": false
+  "MD026": false,
+  "MD033": false
 }
