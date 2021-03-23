@@ -30,3 +30,4 @@ The URL will be linked under the text "Event Website", which appears in two plac
 In the published event, this will appear between the **title** and **date** and the **date**, **location**, and **organizers** block, which is above the **description**.  It is styled in a font that is in between the **title** and the **description** in size (which makes long **summary** text take up a lot of space, which generally looks bad).
 
 * **Description:** *The remainder of this issue will be treated as the body of the event.*
+

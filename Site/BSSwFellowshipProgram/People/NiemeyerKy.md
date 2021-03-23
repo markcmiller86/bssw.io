@@ -24,3 +24,4 @@ Kyle E. Niemeyer is an Assistant Professor at the Oregon State University in the
 
 <a href="https://kyleniemeyer.github.io/research-software-dev-modules/" class="link-row">Research Software Development Modules</a>
 <a href="https://github.com/si2-urssi/winterschool/blob/master/README.md" class="link-row">URSSI Winter School</a>
+

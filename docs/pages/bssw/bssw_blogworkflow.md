@@ -64,3 +64,4 @@ The process starts when an author delivers a draft blog article and hero image (
 16. Editorial Assistant notifies Author, Editor, and other interested parties of publication
 
 {% include links.html %}
+

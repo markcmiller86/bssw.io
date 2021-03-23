@@ -18,3 +18,4 @@ Both software development and scientific research are notorious for taking more 
  
 Chase is an astronomer, programmer, and entrepreneur. He is the Founder and CEO of Million Concepts, a company that provides research software engineering services. He is also a founding board member of OpenPlanetary, an international non-profit that promotes the use of open research workflows in planetary science.
  
+

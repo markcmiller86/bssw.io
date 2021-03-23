@@ -76,3 +76,4 @@ performance portability is everyone’s problem.
 
 <h6>This document was prepared by Anshu Dubey with key contributions from Todd Gamblin, Michael A.
 Heroux, Irina Demeshko, and Barry Smith. This material is based upon work supported by the U.S. Department of Energy Office of Science, Advanced Scientific Computing Research and Biological and Environmental Research programs.</h6>
+

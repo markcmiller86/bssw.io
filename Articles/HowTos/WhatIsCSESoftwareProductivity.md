@@ -78,3 +78,4 @@ results faster, with fewer resources.
 
 <h6 align="center">This document was prepared by Michael A. Heroux with key contributions from Hans Johansen, David
 Bernholdt and Lois Curfman McInnes. This material is based upon work supported by the U.S. Department of Energy Office of Science, Advanced Scientific Computing Research and Biological and Environmental Research programs.</h6>
+

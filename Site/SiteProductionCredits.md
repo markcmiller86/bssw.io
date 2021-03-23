@@ -9,3 +9,4 @@ The IDEAS family of projects focuses on improving scientific productivity by qua
 <strong>Sandbox Studio, Chicago</strong> established the BSSw visual brand, website interface design, and website strategy. Sandbox continues to maintain, support, and improve the website experience and site operation. Erica Dreisbach assists Sandbox in front-end development on the site. Sandbox Studio is an interactive design, UX, branding, and web development firm. 
 
 <strong>Parallactic Consulting</strong> established the custom content management system and GitHub integration developed with Ruby on Rails. Parallactic continues to support, maintain, and improve the site functionality. Parallactic is a small web development & data architecture company.
+

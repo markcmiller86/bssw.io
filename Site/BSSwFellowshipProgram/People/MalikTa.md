@@ -21,3 +21,4 @@ Tanu focuses on the use and practice of reproducible containers to reduce techni
 Tanu Malik is an assistant professor in the School of Computing at DePaul University and directs the Data Systems and Optimization Lab. Her research interests span topics in database systems, data provenance, distributed systems, and cyber-infrastructure for scientific data management. Tanu is also a recipient of the <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=1846418&HistoricalAwards=false">2019 NSF Career Award</a>.
 
 
+
