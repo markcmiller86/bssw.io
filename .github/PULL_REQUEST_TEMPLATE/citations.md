@@ -18,3 +18,9 @@
 * [ ] Merge this PR (but keep PR in "Item Review" in [content development]).
 * [ ] Verify new contribution shows up on [bssw.io] as expected.
 * [ ] Move this PR from "Item Review" to "Done".
+
+[preview]: https://preview.bssw.io
+[bssw.io]: https://bssw.io
+[content development]: https://github.com/betterscientificsoftware/bssw.io/projects/3?
+[meta-data]: https://betterscientificsoftware.github.io/bssw.io/bssw_styling_common.html#metadata-section
+[wikize_refs.py]: https://github.com/betterscientificsoftware/bssw.io/blob/master/utils/README.md#wikize_refspy
